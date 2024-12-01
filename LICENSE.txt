@@ -1,0 +1,5 @@
+Licença
+
+Todos os direitos reservados. Este projeto é propriedade de Louy Santana Fernandes Maracaipe & Janaina Fernandes da Silva Maracaipe e está protegido por leis de direitos autorais. É estritamente proibida a redistribuição, modificação ou reutilização do código sem autorização expressa dos autores.
+
+© 2024 Louy Santana Fernandes Maracaipe & Janaina Fernandes da Silva Maracaipe.

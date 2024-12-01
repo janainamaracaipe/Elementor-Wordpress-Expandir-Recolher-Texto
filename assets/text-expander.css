@@ -1,0 +1,33 @@
+.text-expander-widget {
+  position: relative;
+}
+
+.text-container {
+  position: relative;
+  overflow: hidden;
+  transition: max-height 0.4s ease; /* Animação ao expandir/recolher */
+}
+
+.text-content {
+  line-height: 1.6; /* Ajusta o espaçamento do texto */
+}
+
+.fade-effect {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  z-index: 1;
+  pointer-events: none; /* Evita bloqueio do botão */
+}
+
+.button-container {
+  position: relative;
+  z-index: 10; /* Coloca o botão acima do fade */
+  margin-top: 10px;
+}
+
+.expand-button {
+  transition: background-color 0.3s ease, color 0.3s ease; /* Efeito de hover */
+  cursor: pointer;
+  border-radius: 5px; /* Adiciona borda arredondada para o botão */
+}
